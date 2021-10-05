@@ -1,0 +1,2 @@
+tkinter
+pygubu==0.14
